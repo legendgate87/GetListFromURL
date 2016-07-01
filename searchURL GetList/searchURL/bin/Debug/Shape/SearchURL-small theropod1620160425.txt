@@ -1,0 +1,16 @@
+ALVAREZSAURUS                     small theropod
+ARCHAEOPTERYX                     small theropod
+AVIMIMUS                     small theropod
+CHINDESAURUS                     small theropod
+CHIROSTENOTES                     small theropod
+COELOPHYSIS                     small theropod
+COELURUS                     small theropod
+COMPSOGNATHUS                     small theropod
+CONCHORAPTOR                     small theropod
+DEINOCHEIRUS                     small theropod
+DEINONYCHUS                     small theropod
+DILOPHOSAURUS                     small theropod
+DROMAEOSAURUS                     small theropod
+EORAPTOR                     small theropod
+ERLIKOSAURUS                     small theropod
+EUSTREPTOSPONDYLUS                     small theropod

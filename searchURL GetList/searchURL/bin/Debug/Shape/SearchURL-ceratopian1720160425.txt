@@ -1,0 +1,17 @@
+ANCHICERATOPS                     ceratopian
+ARRHINOCERATOPS                     ceratopian
+AVACERATOPS                     ceratopian
+BAGACERATOPS                     ceratopian
+BRACHYCERATOPS                     ceratopian
+CERATOPS                     ceratopian
+CHASMOSAURUS                     ceratopian
+DICERATOPS                     ceratopian
+EOCERATOPS                     ceratopian
+LEPTOCERATOPS                     ceratopian
+MICROCERATOPS                     ceratopian
+PACHYRHINOSAURUS                     ceratopian
+PENTACERATOPS                     ceratopian
+PROTOCERATOPS                     ceratopian
+STYRACOSAURUS                     ceratopian
+TOROSAURUS                     ceratopian
+TRICERATOPS                     ceratopian

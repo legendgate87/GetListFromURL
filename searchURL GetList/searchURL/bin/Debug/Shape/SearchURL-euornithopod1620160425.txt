@@ -1,0 +1,16 @@
+PSITTACOSAURUS                     euornithopod
+RHABDODON                     euornithopod
+SAUROLOPHUS                     euornithopod
+SECERNOSAURUS                     euornithopod
+SHANTUNGOSAURUS                     euornithopod
+STEGOCERAS                     euornithopod
+STENOPELIX                     euornithopod
+STYGIMOLOCH                     euornithopod
+TANIUS                     euornithopod
+TELMATOSAURUS                     euornithopod
+TENONTOSAURUS                     euornithopod
+THESCELOSAURUS                     euornithopod
+TSINTAOSAURUS                     euornithopod
+TYLOCEPHALE                     euornithopod
+VALDOSAURUS                     euornithopod
+ZEPHYROSAURUS                     euornithopod

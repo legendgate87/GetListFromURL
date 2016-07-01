@@ -1,0 +1,17 @@
+ANKYLOSAURUS                     ankylosaurid
+CHIALINGOSAURUS                     ankylosaurid
+CHUNGKINGOSAURUS                     ankylosaurid
+DACENTRURUS                     ankylosaurid
+DRAVIDOSAURUS                     ankylosaurid
+EUOPLOCEPHALUS                     ankylosaurid
+HUAYANGOSAURUS                     ankylosaurid
+HYLAEOSAURUS                     ankylosaurid
+KENTROSAURUS                     ankylosaurid
+LEXOVISAURUS                     ankylosaurid
+MINMI                     ankylosaurid
+NODOSAURUS                     ankylosaurid
+PANOPLOSAURUS                     ankylosaurid
+PINACOSAURUS                     ankylosaurid
+SAICHANIA                     ankylosaurid
+SAUROPELTA                     ankylosaurid
+SCELIDOSAURUS                     ankylosaurid

@@ -1,0 +1,16 @@
+ACROCANTHOSAURUS                     large theropod
+AFROVENATOR                     large theropod
+ALBERTOSAURUS                     large theropod
+ALECTROSAURUS                     large theropod
+ALIORAMUS                     large theropod
+ALLOSAURUS                     large theropod
+BARYONYX                     large theropod
+CARCHARODONTOSAURUS                     large theropod
+CARNOTAURUS                     large theropod
+CERATOSAURUS                     large theropod
+DASPLETOSAURUS                     large theropod
+DRYPTOSAURUS                     large theropod
+ELAPHROSAURUS                     large theropod
+GASOSAURUS                     large theropod
+GOYOCEPHALE                     large theropod
+INDOSUCHUS                     large theropod

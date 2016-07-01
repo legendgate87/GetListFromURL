@@ -1,0 +1,14 @@
+COMPSOGNATHUS                     large theropod
+MAJUNGATHOLUS                     large theropod
+MEGALOSAURUS                     large theropod
+METRIACANTHOSAURUS                     large theropod
+NANOTYRANNUS                     large theropod
+NANSHIUNGOSAURUS                     large theropod
+NOASAURUS                     large theropod
+POEKILOPLEURON                     large theropod
+PROCOMPSOGNATHUS                     large theropod
+SARCOSAURUS                     large theropod
+SEGISAURUS                     large theropod
+SEGNOSAURUS                     large theropod
+SPINOSAURUS                     large theropod
+STAURIKOSAURUS                     large theropod

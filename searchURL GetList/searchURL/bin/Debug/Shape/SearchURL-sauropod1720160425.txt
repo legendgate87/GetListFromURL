@@ -1,0 +1,17 @@
+MUSSAURUS                     sauropod
+NANOSAURUS                     sauropod
+NEMEGTOSAURUS                     sauropod
+OMEISAURUS                     sauropod
+OPISTHOCOELICAUDIA                     sauropod
+PATAGOSAURUS                     sauropod
+PLATEOSAURUS                     sauropod
+PLEUROCOELUS                     sauropod
+QUAESITOSAURUS                     sauropod
+REBBACHISAURUS                     sauropod
+RHOETOSAURUS                     sauropod
+RIOJASAURUS                     sauropod
+SALTASAURUS                     sauropod
+SEISMOSAURUS                     sauropod
+SUPERSAURUS                     sauropod
+THECODONTOSAURUS                     sauropod
+VULCANODON                     sauropod

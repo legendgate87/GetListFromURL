@@ -1,0 +1,11 @@
+ARCHAEOPTERYX                     small theropod
+CERATOSAURUS                     small theropod
+HERRERASAURUS                     small theropod
+INGENIA                     small theropod
+LILIENSTERNUS                     small theropod
+MARSHOSAURUS                     small theropod
+MONONYKUS                     small theropod
+ORNITHOLESTES                     small theropod
+OVIRAPTOR                     small theropod
+PIATNITZKYSAURUS                     small theropod
+SALTOPUS                     small theropod

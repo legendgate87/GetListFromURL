@@ -1,0 +1,9 @@
+ANSERIMIMUS                     ornithomimosaur
+ARCHAEORNITHOMIMUS                     ornithomimosaur
+DROMICEIOMIMUS                     ornithomimosaur
+GALLIMIMUS                     ornithomimosaur
+GARUDIMIMUS                     ornithomimosaur
+HARPYMIMUS                     ornithomimosaur
+ORNITHOMIMUS                     ornithomimosaur
+SAURORNITHOIDES                     ornithomimosaur
+STRUTHIOMIMUS                     ornithomimosaur

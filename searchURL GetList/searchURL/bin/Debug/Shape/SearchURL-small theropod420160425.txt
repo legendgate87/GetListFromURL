@@ -1,0 +1,4 @@
+SYNTARSUS                     small theropod
+TROODON                     small theropod
+UTAHRAPTOR                     small theropod
+VELOCIRAPTOR                     small theropod

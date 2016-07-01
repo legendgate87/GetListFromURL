@@ -1,0 +1,4 @@
+THERIZINOSAURUS                     large theropod
+TORVOSAURUS                     large theropod
+TYRANNOSAURUS                     large theropod
+YANGCHUANOSAURUS                     large theropod
