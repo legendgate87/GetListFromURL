@@ -1,307 +1,329 @@
-﻿ACANTHOPHOLIS                      
-ACROCANTHOSAURUS
-ADASAURUS
-AEGYPTOSAURUS
-AEOLOSAURUS
-AFROVENATOR
-AGILISAURUS
-ALAMOSAURUS
-ALBERTOSAURUS
-ALECTROSAURUS
-ALGOASAURUS
-ALIORAMUS
-ALLOSAURUS
-ALTISPINAX
-ALVAREZSAURUS
-ALXASAURUS
-AMARGASAURUS
-AMMOSAURUS
-AMTOSAURUS
-AMYGDALODON
-ANATOTITAN
-ANCHICERATOPS
-ANCHISAURUS
-ANDESAURUS
-ANKYLOSAURUS
-ANSERIMIMUS
-ANTARCTOSAURUS
-ANTRODEMUS
-APATOSAURUS
-ARALOSAURUS
-ARCHAEOPTERYX
-ARCHAEORNITHOIDES
-ARCHAEORNITHOMIMUS
-ARGENTINOSAURUS
-ARGYROSAURUS
-ARRHINOCERATOPS
-ATLASCOPCOSAURUS
-AUBLYSODON
-AUSTROSAURUS
-AVACERATOPS
-AVIMIMUS
-BACTROSAURUS
-BAGACERATOPS
-BAHARIASAURUS
-BARAPASAURUS
-BAROSAURUS
-BARYONYX
-BELLUSAURUS
-BOTHRIOSPONDYLUS
-BRACHYCERATOPS
-BRACHYLOPHOSAURUS
-BRADYCNEME
-CAENAGNATHUS
-CALAMOSPONDYLUS
-CALLOVOSAURUS
-CAMARASAURUS
-CAMELOTIA
-CAMPTOSAURUS
-CARCHARODONTOSAURUS
-CARNOTAURUS
-CERATOPS
-CERATOSAURUS
-CETIOSAURISCUS
-CETIOSAURUS
-CHASMOSAURUS
-CHIALINGOSAURUS
-CHILANTAISAURUS
-CHINDESAURUS
-CHINGKANKOUSAURUS
-CHIROSTENOTES
-CHUBUTISAURUS
-CHUNGKINGOSAURUS
-CLAOSAURUS
-COELOPHYSIS
-COELURUS
-COLORADISAURUS
-COMPSOGNATHUS
-CONCHORAPTOR
-CORYTHOSAURUS
-DACENTRURUS
-DASPLETOSAURUS
-DATOUSAURUS
-DEINOCHEIRUS
-DEINODON
-DEINONYCHUS
-DICERATOPS
-DICRAEOSAURUS
-DILOPHOSAURUS
-DIPLODOCUS
-DRACOPELTA
-DRAVIDOSAURUS
-DROMAEOSAURUS
-DROMICEIOMIMUS
-DRYOSAURUS
-DRYPTOSAURUS
-DYSLOCOSAURUS
-DYSTYLOSAURUS
-ECHINODON
-EDMONTOSAURUS
-ELAPHROSAURUS
-ELMISAURUS
-EMAUSAURUS
-ENIGMOSAURUS
-EOCERATOPS
-EORAPTOR
-ERECTOPUS
-ERLIKOSAURUS
-EUCENTROSAURUS
-EUHELOPUS
-EUOPLOCEPHALUS
-EUSKELOSAURUS
-EUSTREPTOSPONDYLUS
-FABROSAURUS
-FRENGUELLISAURUS
-GALLIMIMUS
-GARUDIMIMUS
-GASOSAURUS
-GENYODECTES
-GERANOSAURUS
-GOYOCEPHALE
-GRAVITHOLUS
-GRYPOSAURUS
-HADROSAURUS
-HALTICOSAURUS
-HAPLOCANTHOSAURUS
-HARPYMIMUS
-HEPTASTEORNIS
-HERRERASAURUS
-HETERODONTOSAURUS
-HOMALOCEPHALE
-HOPLITOSAURUS
-HUAYANGOSAURUS
-HYLAEOSAURUS
-HYPACROSAURUS
-HYPSELOSAURUS
-HYPSILOPHODON
-IGUANODON
-INDOSAURUS
-INDOSUCHUS
-INGENIA
-ISCHISAURUS
-ITEMIRUS
-JAXARTOSAURUS
-KENTROSAURUS
-KOTASAURUS
-KRITOSAURUS
-LABOCANIA
-LAMBEOSAURUS
-LAPLATASAURUS
-LAPPARENTOSAURUS
-LEAELLYNASAURA
-LEPTOCERATOPS
-LESOTHOSAURUS
-LEXOVISAURUS
-LILIENSTERNUS
-LOPHORHOTHON
-LORICOSAURUS
-LUFENGOSAURUS
-LUKOUSAURUS
-LYCORHINUS
-MACROPHALANGIA
-MACRUROSAURUS
-MAIASAURA
-MAJUNGASAURUS
-MAJUNGATHOLUS
-MALAWISAURUS
-MALEEVOSAURUS
-MAMENCHISAURUS
-MANDSCHUROSAURUS
-MARSHOSAURUS
-MASSOSPONDYLUS
-MEGALOSAURUS
-MELANOROSAURUS
-METRIACANTHOSAURUS
-MICROCERATOPS
-MICROPACHYCEPHALOSAURUS
-MICROVENATOR
-MINMI
-MONGOLOSAURUS
-MONKONOSAURUS
-MONOCLONIUS
-MONONYKUS
-MONTANOCERATOPS
-MUSSAURUS
-MUTTABURRASAURUS
-NANOSAURUS
-NANOTYRANNUS
-NANSHIUNGOSAURUS
-NEMEGTOSAURUS
-NEUQUENSAURUS
-NIPPONOSAURUS
-NOASAURUS
-NODOSAURUS
-OHMDENOSAURUS
-OMEISAURUS
-OPISTHOCOELICAUDIA
-ORNITHOLESTES
-ORNITHOMIMUS
-ORODROMEUS
-OTHNIELIA
-OURANOSAURUS
-OVIRAPTOR
-PACHYCEPHALOSAURUS
-PACHYRHINOSAURUS
-PANOPLOSAURUS
-PARASAUROLOPHUS
-PARKSOSAURUS
-PATAGOSAURUS
-PAWPAWSAURUS
-PENTACERATOPS
-PIATNITZKYSAURUS
-PINACOSAURUS
-PISANOSAURUS
-PIVETEAUSAURUS
-PLATEOSAURUS
-PLEUROCOELUS
-POEKILOPLEURON
-PRENOCEPHALE
-PROBACTROSAURUS
-PROCOMPSOGNATHUS
-PROSAUROLOPHUS
-PROTOCERATOPS
-PSITTACOSAURUS
-QUAESITOSAURUS
-RHABDODON
-REBBACHISAURUS
-RHOETOSAURUS
-RIOJASAURUS
-SAICHANIA
-SALTASAURUS
-SALTOPUS
-SARCOLESTES
-SARCOSAURUS
-SAUROLOPHUS
-SAUROPELTA
-SAUROPLITES
-SAURORNITHOIDES
-SAURORNITHOLESTES
-SCELIDOSAURUS
-SCUTELLOSAURUS
-SECERNOSAURUS
-SEGISAURUS
-SEGNOSAURUS
-SEISMOSAURUS
-SHAMOSAURUS
-SHANSHANOSAURUS
-SHANTUNGOSAURUS
-SILVISAURUS
-SINOSAURUS
-SPINOSAURUS
-STAURIKOSAURUS
-STEGOCERAS
-STEGOSAURUS
-STENOPELIX
-STOKESOSAURUS
-STRUTHIOMIMUS
-STRUTHIOSAURUS
-STYGIMOLOCH
-STYRACOSAURUS
-SUPERSAURUS
-SYNTARSUS
-TALARURUS
-TANIUS
-TARASCOSAURUS
-TARCHIA
-TECHNOSAURUS
-TELMATOSAURUS
-TENONTOSAURUS
-THECODONTOSAURUS
-THERIZINOSAURUS
-THESCELOSAURUS
-TIENSHANOSAURUS
-TITANOSAURUS
-TOROSAURUS
-TORVOSAURUS
-TRICERATOPS
-TROODON
-TSINTAOSAURUS
-TUOJIANGOSAURUS
-TYLOCEPHALE
-TYRANNOSAURUS
-ULTRASAUROS
-UTAHRAPTOR
-VALDOSAURUS
-VECTISAURUS
-VELOCIRAPTOR
-VOLKHEIMERIA
-VULCANODON
-WANNANOSAURUS
-WUERHOSAURUS
-XENOTARSOSAURUS
-XIAOSAURUS
-YANGCHUANOSAURUS
-YAVERLANDIA
-ZEPHYROSAURUS
-ZIGONGOSAURUS
-ZIZHONGOSAURUS
-TYRANNOSAURUS
-VELOCIRAPTOR
-TRICERATOPS
-STEGOSAURUS
-MALAWISAURUS
-COMPSOGNATHUS
-BRACHIOSAURUS
-DILOPHOSAURUS
-SEISMOSAURUS
-GALLIMIMUS
+﻿ Aardonyx 
+ Abelisaurus 
+ Achelousaurus 
+ Achillobator 
+ Acrocanthosaurus 
+ Aegyptosaurus 
+ Afrovenator 
+ Agilisaurus 
+ Alamosaurus 
+ Albertaceratops 
+ Albertosaurus 
+ Alectrosaurus 
+ Alioramus 
+ Allosaurus 
+ Alvarezsaurus 
+ Amargasaurus 
+ Ammosaurus 
+ Ampelosaurus 
+ Amygdalodon 
+ Anatotitan 
+ Anchiceratops 
+ Anchisaurus 
+ Ankylosaurus 
+ Anserimimus 
+ Antarctopelta 
+ Antarctosaurus 
+ Apatosaurus 
+ Aragosaurus 
+ Aralosaurus 
+ Archaeoceratops 
+ Archaeopteryx 
+ Archaeornithomimus 
+ Argentinosaurus 
+ Arrhinoceratops 
+ Atlascopcosaurus 
+ Aucasaurus 
+ Austrosaurus 
+ Avaceratops 
+ Avalonia 
+ Avimimus 
+ Azendohsaurus 
+ Bactrosaurus 
+ Bagaceratops 
+ Bambiraptor 
+ Barapasaurus 
+ Barosaurus 
+ Baryonyx 
+ Becklespinax 
+ Beipiaosaurus 
+ Bellusaurus 
+ Borogovia 
+ Brachiosaurus 
+ Brachyceratops 
+ Brachylophosaurus 
+ Brachytrachelopan 
+ Bugenasaura 
+ Buitreraptor 
+ Camarasaurus 
+ Camptosaurus 
+ Carcharodontosaurus 
+ Carnotaurus 
+ Caudipteryx 
+ Cedarpelta 
+ Centrosaurus 
+ Ceratosaurus 
+ Cetiosauriscus 
+ Cetiosaurus 
+ Chaoyangsaurus 
+ Chasmosaurus 
+ Chialingosaurus 
+ Chindesaurus 
+ Chinshakiangosaurus 
+ Chirostenotes 
+ Chubutisaurus 
+ Chungkingosaurus 
+ Citipati 
+ Coelophysis 
+ Coelurus 
+ Coloradisaurus 
+ Compsognathus 
+ Conchoraptor 
+ Confuciusornis 
+ Corythosaurus 
+ Cryolophosaurus 
+ Dacentrurus 
+ Daspletosaurus 
+ Datousaurus 
+ Deinocheirus 
+ Deinonychus 
+ Deltadromeus 
+ Diceratops 
+ Dicraeosaurus 
+ Dilophosaurus 
+ Diplodocus 
+ Dracorex 
+ Dravidosaurus 
+ Dromaeosaurus 
+ Dromiceiomimus 
+ Dryosaurus 
+ Dryptosaurus 
+ Dubreuillosaurus 
+ Edmontonia 
+ Edmontosaurus 
+ Einiosaurus 
+ Elaphrosaurus 
+ Emausaurus 
+ Eolambia 
+ Eoraptor 
+ Eotyrannus 
+ Equijubus 
+ Erketu 
+ Erlikosaurus 
+ Euhelopus 
+ Euoplocephalus 
+ Europasaurus 
+ Euskelosaurus 
+ Eustreptospondylus 
+ Fukuiraptor 
+ Fukuisaurus 
+ Gallimimus 
+ Gargoyleosaurus 
+ Garudimimus 
+ Gasosaurus 
+ Gasparinisaura 
+ Gastonia 
+ Giganotosaurus 
+ Gilmoreosaurus 
+ Giraffatitan 
+ Gobisaurus 
+ Gorgosaurus 
+ Goyocephale 
+ Graciliceratops 
+ Gryposaurus 
+ Guaibasaurus 
+ Guanlong 
+ Hadrosaurus 
+ Hagryphus 
+ Haplocanthosaurus 
+ Harpymimus 
+ Herrerasaurus 
+ Hesperosaurus 
+ Heterodontosaurus 
+ Homalocephale 
+ Huayangosaurus 
+ Hylaeosaurus 
+ Hypacrosaurus 
+ Hypselosaurus 
+ Hypsilophodon 
+ Iguanodon 
+ Indosuchus 
+ Ingenia 
+ Irritator 
+ Isisaurus 
+ Janenschia 
+ Jaxartosaurus 
+ Jingshanosaurus 
+ Jinzhousaurus 
+ Jobaria 
+ Juravenator 
+ Kentrosaurus 
+ Khaan 
+ Kotasaurus 
+ Kritosaurus 
+ Lamaceratops 
+ Lambeosaurus 
+ Lapparentosaurus 
+ Leaellynasaura 
+ Leptoceratops 
+ Lexovisaurus 
+ Liaoceratops 
+ Liaoxiornis 
+ Ligabuesaurus 
+ Liliensternus 
+ Lophorhothon 
+ Lophostropheus 
+ Lufengosaurus 
+ Lurdusaurus 
+ Lycorhinus 
+ Magyarosaurus 
+ Maiasaura 
+ Majungatholus 
+ Malawisaurus 
+ Mamenchisaurus 
+ Mapusaurus 
+ Marshosaurus 
+ Masiakasaurus 
+ Massospondylus 
+ Maxakalisaurus 
+ Megalosaurus 
+ Melanorosaurus 
+ Metriacanthosaurus 
+ Microceratops 
+ Micropachycephalosaurus 
+ Microraptor 
+ Minmi 
+ Monolophosaurus 
+ Mononykus 
+ Mussaurus 
+ Muttaburrasaurus 
+ Nanotyrannus 
+ Nanshiungosaurus 
+ Nemegtosaurus 
+ Neovenator 
+ Neuquenosaurus 
+ Nigersaurus 
+ Nipponosaurus 
+ Noasaurus 
+ Nodosaurus 
+ Nomingia 
+ Nothronychus 
+ Nqwebasaurus 
+ Omeisaurus 
+ Opisthocoelicaudia 
+ Ornitholestes 
+ Ornithomimus 
+ Orodromeus 
+ Oryctodromeus 
+ Othnielia 
+ Ouranosaurus 
+ Oviraptor 
+ Pachycephalosaurus 
+ Pachyrhinosaurus 
+ Panoplosaurus 
+ Pantydraco 
+ Paralititan 
+ Parasaurolophus 
+ Parksosaurus 
+ Patagosaurus 
+ Pelicanimimus 
+ Pelorosaurus 
+ Pentaceratops 
+ Piatnitzkysaurus 
+ Pinacosaurus 
+ Pisanosaurus 
+ Plateosaurus 
+ Platyceratops 
+ Pleurocoelus 
+ Podokesaurus 
+ Poekilopleuron 
+ Polacanthus 
+ Prenocephale 
+ Probactrosaurus 
+ Proceratosaurus 
+ Procompsognathus 
+ Prosaurolophus 
+ Protarchaeopteryx 
+ Protoceratops 
+ Protohadros 
+ Psittacosaurus 
+ Quaesitosaurus 
+ Rebbachisaurus 
+ Rhabdodon 
+ Rhoetosaurus 
+ Rinchenia 
+ Riojasaurus 
+ Rugops 
+ Saichania 
+ Saltasaurus 
+ Saltopus 
+ Sarcosaurus 
+ Saurolophus 
+ Sauropelta 
+ Saurophaganax 
+ Saurornithoides 
+ Scelidosaurus 
+ Scutellosaurus 
+ Secernosaurus 
+ Segisaurus 
+ Segnosaurus 
+ Seismosaurus 
+ Shamosaurus 
+ Shantungosaurus 
+ Shunosaurus 
+ Shuvuuia 
+ Silvisaurus 
+ Sinocalliopteryx 
+ Sinornithosaurus 
+ Sinosauropteryx 
+ Sinraptor 
+ Sinvenator 
+ Sonidosaurus 
+ Spinosaurus 
+ Staurikosaurus 
+ Stegoceras 
+ Stegosaurus 
+ Stenopelix 
+ Struthiomimus 
+ Struthiosaurus 
+ Stygimoloch 
+ Styracosaurus 
+ Suchomimus 
+ Supersaurus 
+ Syntarsus    
+ Talarurus 
+ Tanius 
+ Tarbosaurus 
+ Tarchia 
+ Telmatosaurus 
+ Tenontosaurus 
+ Thecodontosaurus 
+ Therizinosaurus 
+ Thescelosaurus 
+ Torosaurus 
+ Torvosaurus 
+ Triceratops 
+ Troodon 
+ Tsagantegia 
+ Tsintaosaurus 
+ Tuojiangosaurus 
+ Tylocephale 
+ Tyrannosaurus 
+ Udanoceratops 
+ Unenlagia 
+ Urbacodon 
+ Utahraptor 
+ Valdosaurus 
+ Velociraptor 
+ Wuerhosaurus 
+ Vulcanodon 
+ Yandusaurus 
+ Yangchuanosaurus 
+ Yimenosaurus 
+ Yingshanosaurus 
+ Yinlong 
+ Yuanmousaurus 
+ Yunnanosaurus 
+ Zalmoxes 
+ Zephyrosaurus 
+ Zuniceratops 

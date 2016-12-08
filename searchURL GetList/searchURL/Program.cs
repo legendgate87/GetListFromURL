@@ -16,7 +16,7 @@ namespace searchURL
            //  Prolog.stopWatchStart();
           //  Prolog.proLogStart();  //Starts text prolog
 
-            // Prolog.searchTermsStart(); // Starts manual input and search
+             Prolog.searchTermsStart(); // Starts manual input and search
 
 
             // SearchList.httpStreamRead();
@@ -34,7 +34,7 @@ namespace searchURL
 
             //GetPeriod.runHttpStreamRead(); // Runs GetPeriod to try and get Periods for our dinos
 
-            SeedListCheckTest.getdinosaurNames();
+            //SeedListCheckTest.getdinosaurNames();
             //SeedListCheckTest.check();
 
             //GetDescription.runHttpStreamReadDescription();
