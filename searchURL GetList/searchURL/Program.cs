@@ -13,20 +13,20 @@ namespace searchURL
 
         static void Main(string[] args)
         {
-            // Prolog.stopWatchStart();
-            //Prolog.proLogStart();  //Starts text prolog
+           //  Prolog.stopWatchStart();
+          //  Prolog.proLogStart();  //Starts text prolog
 
-            /// Prolog.searchTermsStart(); // Starts manual input and search
+            // Prolog.searchTermsStart(); // Starts manual input and search
 
 
             // SearchList.httpStreamRead();
             Prolog.stopWatchStart();
-            GetPeriod.getListFromFile(); //Gets our dino list from text file
+          // GetPeriod.getListFromFile(); //Gets our dino list from text file
                                          // GetPeriod.getListFromFile2();
 
             //Sorting.sortOrder();
 
-            GetBodyShape.runHttpStreamReadnshape();
+           // GetBodyShape.runHttpStreamReadnshape();
 
             //Console.WriteLine("File loaded to list");
 
@@ -34,7 +34,7 @@ namespace searchURL
 
             //GetPeriod.runHttpStreamRead(); // Runs GetPeriod to try and get Periods for our dinos
 
-            //SeedListCheckTest.getdinosaurNames();
+            SeedListCheckTest.getdinosaurNames();
             //SeedListCheckTest.check();
 
             //GetDescription.runHttpStreamReadDescription();

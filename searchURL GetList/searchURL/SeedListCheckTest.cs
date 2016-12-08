@@ -13,9 +13,9 @@ namespace searchURLGetList
 
        public static Random rand = new Random();
 
-        public static string logPath2 = $"C:\\Users\\deltagare\\OneDrive\\Lexicon\\Visual studio\\Foxtrot\\Foxtrot\\bin\\Description.txt";
-        public static string logPath3 = $"C:\\Users\\deltagare\\OneDrive\\Lexicon\\Visual studio\\Foxtrot\\Foxtrot\\bin\\Period.txt";
-        public static string logPath4 = $"C:\\Users\\deltagare\\OneDrive\\Lexicon\\Visual studio\\Foxtrot\\Foxtrot\\bin\\DinoList.txt";
+        public static string logPath2 = $"{AppDomain.CurrentDomain.BaseDirectory}Description.txt";
+        public static string logPath3 = $"{AppDomain.CurrentDomain.BaseDirectory}Period.txt";
+        public static string logPath4 = $"{AppDomain.CurrentDomain.BaseDirectory}DinoList.txt";
 
         public static List<string> dinosaurDiet = new List<string>();
 

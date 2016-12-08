@@ -13,3 +13,9 @@ C:\Users\deltagare\OneDrive\Lexicon\Visual studio\searchURL GetList\searchURL\ob
 C:\Users\deltagare\OneDrive\Visual studio\searchURL GetList\searchURL\bin\Debug\searchURLGetList.exe.config
 C:\Users\deltagare\OneDrive\Visual studio\searchURL GetList\searchURL\obj\Debug\searchURLGetList.exe
 C:\Users\deltagare\OneDrive\Visual studio\searchURL GetList\searchURL\obj\Debug\searchURLGetList.pdb
+C:\Users\Sunfox\Source\Repos\GetListFromURL\searchURL GetList\searchURL\bin\Debug\searchURLGetList.exe.config
+C:\Users\Sunfox\Source\Repos\GetListFromURL\searchURL GetList\searchURL\obj\Debug\searchURLGetList.exe
+C:\Users\Sunfox\Source\Repos\GetListFromURL\searchURL GetList\searchURL\obj\Debug\searchURLGetList.pdb
+C:\Users\Sunfox\Source\Repos\GetListFromURL\searchURL GetList\searchURL\bin\Debug\searchURLGetList.exe
+C:\Users\Sunfox\Source\Repos\GetListFromURL\searchURL GetList\searchURL\bin\Debug\searchURLGetList.pdb
+C:\Users\Sunfox\Source\Repos\GetListFromURL\searchURL GetList\searchURL\obj\Debug\searchURLGetList.csprojResolveAssemblyReference.cache
