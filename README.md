@@ -5,6 +5,7 @@ then saves that info to a text file.
 Example:
 
 URL: https://en.wikipedia.org/wiki/Main_Page
+
 Search Start Term: <a href="
 Search End Term: "
 
