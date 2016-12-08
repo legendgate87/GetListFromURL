@@ -11,15 +11,15 @@ namespace searchURL
     public class SearchList
     {
 
-        public static List<string> dinosaurNames = new List<string>();
+        public static List<string> searchList = new List<string>();
 
         public static string pageContent { get; set; }
 
-        public static string inputUrl = "http://www.dinodictionary.com/azdict_index.asp";
+        public static string inputUrl { get; set; }
 
 
-        public static string searchIndexOfA ="asp#";
-        public static string searchIndexOfB = "\"";
+        public static string searchIndexOfA { get; set; }
+        public static string searchIndexOfB { get; set; }
 
 
 
@@ -34,7 +34,7 @@ namespace searchURL
             DateTime Now = DateTime.Now;
 
             
-           string tempPath = $"{AppDomain.CurrentDomain.BaseDirectory}DinoList{Now.ToString("yyyyMMdd")}.txt";
+           string tempPath = $"{AppDomain.CurrentDomain.BaseDirectory}SearchList{Now.ToString("yyyyMMdd")}.txt";
 
             //var fileStream = File.OpenWrite($"C:\\{Now.ToString("yyyyMMdd")}-{g}.txt");
             // StreamWriter sw = new StreamWriter($"C:\\{Now.ToString("yyyyMMdd")}-{g}.txt");
@@ -79,7 +79,7 @@ namespace searchURL
 
 
 
-                        dinosaurNames.Add(result);
+                        searchList.Add(result);
 
                         sw.WriteLine(result);
 

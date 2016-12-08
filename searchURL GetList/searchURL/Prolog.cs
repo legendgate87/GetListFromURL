@@ -56,8 +56,12 @@ namespace searchURLGetList
 
         public static void searchTermsStart()
         {
-            var userPressHelp = Console.ReadKey().Key != ConsoleKey.F1;
-            if (userPressHelp) { Help.helpUser(); }
+            Console.WriteLine ("This program expects that you have a basic understanding of HTML" + "\r\n" + "Press any key or F1 for help");
+            var userPressHelp = Console.ReadKey().Key;
+            if (userPressHelp == ConsoleKey.F1)
+            {
+                Help.helpUser();
+            }
 
 
             Console.WriteLine("Enter URL -- Don't forget http www . : / or .com etc");
@@ -68,11 +72,11 @@ namespace searchURLGetList
             
 
 
-            Console.WriteLine("Enter specific searchIndex term Start");
+            Console.WriteLine("Enter specific searchIndex Start term");
             SearchList.searchIndexOfA = Console.ReadLine();
 
 
-            Console.WriteLine("Enter specific searchIndex term End");
+            Console.WriteLine("Enter specific searchIndex End term");
             SearchList.searchIndexOfB = Console.ReadLine();
 
             // SearchList.dinosaurNames.ForEach(i => Console.Write("{0}\t", i));
