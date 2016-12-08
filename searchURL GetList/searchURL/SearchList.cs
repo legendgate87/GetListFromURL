@@ -92,7 +92,7 @@ namespace searchURL
 
                         //string playerDino = tolower;
 
-                        Console.WriteLine($"Found {result}"); //  Alerts user that we found what they are searching for
+                        Console.WriteLine($"Found {result}"); //  Alerts user that we found what we are searching for
                         Console.WriteLine("-----------------------------");
                         Console.WriteLine("On Row: " + count);  // And the specific row we found it on
                         Console.WriteLine("-----------------------------");
